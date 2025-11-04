@@ -11,3 +11,6 @@ wheels/
 
 # vscode folder
 .vscode/
+
+# add .csv files in every folder
+**/*.csv
